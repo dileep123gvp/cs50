@@ -1,14 +1,5 @@
 /****************************************************************************
- * CS50 Library 4
- * https://manual.cs50.net/Library
- *
- * Based on Eric Roberts' genlib.c and simpio.c.
- *
- * Copyright (c) 2011,
- * Glenn Holloway <holloway@eecs.harvard.edu>
- * David J. Malan <malan@harvard.edu>
- * All rights reserved.
- *
+
  * BSD 3-Clause License
  * http://www.opensource.org/licenses/BSD-3-Clause
  *
